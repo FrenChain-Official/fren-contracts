@@ -1,7 +1,5 @@
-# GMX Contracts
-Contracts for GMX.
-
-Docs at https://gmxio.gitbook.io/gmx/contracts.
+# Fren Finance Contracts
+Contracts for Fren Finance.
 
 ## Install Dependencies
 If npx is not installed yet:
